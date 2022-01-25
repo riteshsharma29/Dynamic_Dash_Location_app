@@ -1,0 +1,18 @@
+https://dash.plotly.com/deployment
+
+For deployment follow below steps :
+
+cd /home/ritesh/Desktop/sanjupamecha
+git init
+heroku create my-dash-app # change my-dash-app to a unique name
+git add . # add all files to git
+git commit -m 'message'
+git push heroku master # deploy code to heroku
+
+
+For redeployment follow below steps :
+
+git status # view the changes
+git add .  # add all the changes
+git commit -m 'a description of the changes'
+git push heroku master
