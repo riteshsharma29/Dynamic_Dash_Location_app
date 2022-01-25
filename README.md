@@ -4,7 +4,7 @@ Dynamic Dash Location app deployed on Heroku
 
 
 # For running app in local install dependencies using command : pip install -r requirements.txt
-## Acquire your Javascript api key from developer.here.com. Am using Freemium A/C. replace YOUR-API-KEY string with your api key in app.py and static/source.js.txt and save the file.
+# Acquire your Javascript api key from developer.here.com. Am using Freemium A/C. replace YOUR-API-KEY string with your api key in app.py and static/source.js.txt and save the file.
 
 # For deployment follow this link https://dash.plotly.com/deployment. Below are the steps I followed on Ubuntu Virtual box:
 
