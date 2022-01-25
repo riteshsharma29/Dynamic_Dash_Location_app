@@ -1,6 +1,8 @@
 # Dynamic_Dash_Location_app
 Dynamic Dash Location app deployed on Heroku
 
+## Application is live on below link :
+https://dynamic-location-app.herokuapp.com/
 
 
 For running app in local install dependencies using command : pip install -r requirements.txt <br>
